@@ -31,3 +31,7 @@ Punto Crítico de Satisfacción: Solo el 40,0% de los pacientes considera que el
 ◉ Planificación por Estacionalidad: Ajustar la capacidad del centro (personal y camas) basándose en el histórico de picos detectados en meses de alta demanda como marzo.
 
 # Contenido del Repositorio
+
+- ANALISIS EXPERIENCIA DEL PACIENTE.pbix: Archivo fuente de Power BI con el dashboard interactivo.
+
+- INFORME EJECUTIVO EXPERIENCIA DEL PACIENTE.pdf: Documento detallado con el análisis de indicadores, contexto de mercado y conclusiones.
