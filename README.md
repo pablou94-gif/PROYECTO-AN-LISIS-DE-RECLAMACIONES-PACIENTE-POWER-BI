@@ -9,7 +9,8 @@ Este proyecto consiste en un análisis integral de la experiencia del usuario. E
 ◉ Power Query (ETL): Limpieza y transformación de datos, incluyendo la creación de campos derivados como el número de semana (Week Number) e integración de paleta corporativa.
 
 ◉ Análisis de Datos: Extracción de insights accionables a partir de datos crudos (262 reclamaciones totales).
-Storytelling: Elaboración de un informe ejecutivo orientado a la toma de decisiones estratégicas.
+
+◉ Storytelling: Elaboración de un informe ejecutivo orientado a la toma de decisiones estratégicas.
 
 # Hallazgos Clave (Insights)
 
